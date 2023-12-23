@@ -1,6 +1,4 @@
 // Hirarcle inheritance
-import java.util.*;
-import bank;
 class Shape{
     public void area(){
         System.out.println("Display area");
@@ -21,13 +19,12 @@ class Circle extends Shape{
 
 public class hirarcle_inheri {
     public static void main(String[] args) {
-        // Triangle triangle=new Triangle();
-        // triangle.area(10,5);
+        Triangle triangle=new Triangle();
+        triangle.area(10,5);
 
-        // Circle circle=new Circle();
-        // circle.area(5);
-        bank.Account account1=new bank.Account;
-        account1.name="customer1";
+        Circle circle=new Circle();
+        circle.area(5);
+        
 
         
     }
