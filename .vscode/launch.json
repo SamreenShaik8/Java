@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "compile",
+            "request": "launch",
+            "mainClass": "compile",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "method_overloading",
+            "request": "launch",
+            "mainClass": "method_overloading",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Assigment",
+            "request": "launch",
+            "mainClass": "Assigment",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Inc",
+            "request": "launch",
+            "mainClass": "Inc",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Sam",
+            "request": "launch",
+            "mainClass": "Sam",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "char_int",
+            "request": "launch",
+            "mainClass": "char_int",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "compar_op",
+            "request": "launch",
+            "mainClass": "compar_op",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "doub_byte",
+            "request": "launch",
+            "mainClass": "doub_byte",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "int_long",
+            "request": "launch",
+            "mainClass": "int_long",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "long_doub",
+            "request": "launch",
+            "mainClass": "long_doub",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "long_float",
+            "request": "launch",
+            "mainClass": "long_float",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "postdec",
+            "request": "launch",
+            "mainClass": "postdec",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "rightshift",
+            "request": "launch",
+            "mainClass": "rightshift",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "shift_op",
+            "request": "launch",
+            "mainClass": "shift_op",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "short_int",
+            "request": "launch",
+            "mainClass": "short_int",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "typecasting",
+            "request": "launch",
+            "mainClass": "typecasting",
+            "projectName": "Java_814ae8b5"
+        }
+    ]
+}

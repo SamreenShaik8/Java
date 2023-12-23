@@ -10,13 +10,13 @@ class Dog{
         this.cost = cost;
     }
     void eat(){
-    System.out.println("The dog is eating");
+        System.out.println("The dog is eating");
 }
-void sleep(){
-    System.out.println("The dog is sleeping");
+    void sleep(){
+        System.out.println("The dog is sleeping");
 }
-void bark(){
-    System.out.println("The dog is barking");
+    void bark(){
+        System.out.println("The dog is barking");
 }
 public static void main(String[] args) {
     Dog d1=new Dog("jimmy","black",70000);

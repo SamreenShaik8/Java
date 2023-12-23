@@ -3,6 +3,6 @@ public class short_int {
         short s=13;
         int i;
         i=s;
-        System.out.println(s);
+        System.out.println(i);
     }
 }
