@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Animal_abstr",
+            "request": "launch",
+            "mainClass": "Animal_abstr",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "OOPS",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "compile",
             "request": "launch",
             "mainClass": "compile",
