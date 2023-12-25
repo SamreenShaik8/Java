@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "func",
+            "request": "launch",
+            "mainClass": "func",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "staticc",
+            "request": "launch",
+            "mainClass": "staticc",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Opps_static",
+            "request": "launch",
+            "mainClass": "Opps_static",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Static",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "Animal_abstr",
             "request": "launch",
             "mainClass": "Animal_abstr",
