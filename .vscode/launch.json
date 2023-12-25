@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "func",
             "request": "launch",
             "mainClass": "func",
