@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Facto",
+            "request": "launch",
+            "mainClass": "Facto",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "facto",
+            "request": "launch",
+            "mainClass": "facto",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "add",
             "request": "launch",
             "mainClass": "add",
