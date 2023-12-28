@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "zero_one_Triangle",
+            "request": "launch",
+            "mainClass": "zero_one_Triangle",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "floyid",
+            "request": "launch",
+            "mainClass": "floyid",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "inv_pyr_num",
+            "request": "launch",
+            "mainClass": "inv_pyr_num",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "pyr_number",
+            "request": "launch",
+            "mainClass": "pyr_number",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "inv_half",
+            "request": "launch",
+            "mainClass": "inv_half",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "Halfpyramid",
             "request": "launch",
             "mainClass": "Halfpyramid",
