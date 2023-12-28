@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Halfpyramid",
+            "request": "launch",
+            "mainClass": "Halfpyramid",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "hallorectangle",
+            "request": "launch",
+            "mainClass": "hallorectangle",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "Facto",
             "request": "launch",
             "mainClass": "Facto",
