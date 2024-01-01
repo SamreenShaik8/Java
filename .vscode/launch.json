@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mini_project",
+            "request": "launch",
+            "mainClass": "Mini_project",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "excep",
+            "request": "launch",
+            "mainClass": "excep",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "zero_one_Triangle",
             "request": "launch",
             "mainClass": "zero_one_Triangle",
