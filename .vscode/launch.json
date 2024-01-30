@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "e8",
+            "request": "launch",
+            "mainClass": "e8",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "e7",
+            "request": "launch",
+            "mainClass": "e7",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "e6",
+            "request": "launch",
+            "mainClass": "e6",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "e5",
             "request": "launch",
             "mainClass": "e5",
