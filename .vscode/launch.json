@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Notevariable",
+            "request": "launch",
+            "mainClass": "Notevariable",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "e9",
+            "request": "launch",
+            "mainClass": "e9",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "e8",
             "request": "launch",
             "mainClass": "e8",
