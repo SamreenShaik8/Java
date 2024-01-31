@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "e13",
+            "request": "launch",
+            "mainClass": "e13",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "e12char",
+            "request": "launch",
+            "mainClass": "e12char",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "concat",
+            "request": "launch",
+            "mainClass": "concat",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "e11",
+            "request": "launch",
+            "mainClass": "e11",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "e10",
+            "request": "launch",
+            "mainClass": "e10",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "Notevariable",
             "request": "launch",
             "mainClass": "Notevariable",
