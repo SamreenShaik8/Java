@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "e14arrays",
+            "request": "launch",
+            "mainClass": "e14arrays",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "e13",
             "request": "launch",
             "mainClass": "e13",
