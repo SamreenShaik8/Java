@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Oper",
+            "request": "launch",
+            "mainClass": "Oper",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Pen",
+            "request": "launch",
+            "mainClass": "Pen",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "single_inheritance",
+            "request": "launch",
+            "mainClass": "single_inheritance",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "OOPSs",
+            "request": "launch",
+            "mainClass": "OOPSs",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "RemoveWhiteSpaces",
+            "request": "launch",
+            "mainClass": "RemoveWhiteSpaces",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "program4",
+            "request": "launch",
+            "mainClass": "program4",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "e14arrays",
             "request": "launch",
             "mainClass": "e14arrays",

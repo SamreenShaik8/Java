@@ -14,7 +14,7 @@ public class single_inheritance {
 
     public static void main (String[] args){
         Triangle triangle = new Triangle();
-        triangle.area(10,5);
+        triangle.area(10,5);    
     
 }
 }
